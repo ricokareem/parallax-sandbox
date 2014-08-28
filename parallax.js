@@ -5,7 +5,7 @@ function update(){
     $('.container').each(function() {
         var $element = $(this);
         var height = $element.height();
-        $(this).css('backgroundPosition', '100% ' + Math.round((height - pos) * velocity) + 'px');
+        $(this).css('backgroundPosition', '50% ' + Math.round((height - pos) * velocity) + 'px');
     });
 };
 $window.bind('scroll', update);
