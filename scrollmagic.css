@@ -1,0 +1,11 @@
+h2 { color: #fff; }
+.container {
+    padding: 400px 200px; /* This gives our headings a bit of breathing room */
+}
+.js-background-1 {
+    background: transparent url('http://techinamerica.com/Swagger-Theme/PNG/backgrounds/Background%205C-1-v06.png') center 0 no-repeat;
+}
+.js-background-2 {
+    margin-top: -10px;
+    background: transparent url('http://backgrounds-free.com/highresolution/l_027.png') center 0 no-repeat;
+}
