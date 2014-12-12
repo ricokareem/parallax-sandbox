@@ -2,6 +2,9 @@ h2 { color: #fff; }
 .container {
     padding: 400px 200px; /* This gives our headings a bit of breathing room */
 }
+
+/*  I AM EDITING THIS FILE ON THE REFACTORED BRANCH */
+
 .js-background-1 {
     background: transparent url('http://techinamerica.com/Swagger-Theme/PNG/backgrounds/Background%205C-1-v06.png') center 0 no-repeat;
 }
