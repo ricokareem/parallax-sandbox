@@ -1,5 +1,5 @@
 var $window = $(window);
-var velocity = 0.4;
+var velocity = 0.4; /* I AM EDITING THIS LINE ON THE REFACTORED BRANCH */
 function update(){
     var pos = $window.scrollTop();
     $('.container').each(function() {
