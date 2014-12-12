@@ -7,11 +7,16 @@ h2 { color: #fff; }
 }
 .js-background-2 {
     background: transparent url('http://backgrounds-free.com/highresolution/l_027.png') center 0 repeat-y;
+    background-size: 100% 100%;
 }
 .js-background-3 {
     background: transparent url('http://i6.minus.com/i6jx6DW1sh7DF.png') center 0 repeat-y;
+    background-size: 100% 100%;
 }
 .js-background-4 {
     background: transparent url('http://fc08.deviantart.net/fs40/f/2009/049/d/b/Purple_Gradient_by_neilwightman.png') center 0 repeat-y;
     background-size: 100% 100%;
+}
+.js-background-5 {
+    background: transparent url('http://fc05.deviantart.net/fs37/i/2008/257/4/2/Honeycomb_WP_by_cschrensky.jpg') center 0 repeat;
 }

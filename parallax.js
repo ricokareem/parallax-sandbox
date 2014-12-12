@@ -9,3 +9,5 @@ function update(){
     });
 };
 $window.bind('scroll', update);
+
+/* I THINK I WILL ADD A COMMENT TO THE LAST LINE FOR NO APPARENT REASON */
